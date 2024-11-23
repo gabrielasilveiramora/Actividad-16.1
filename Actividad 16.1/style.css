@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    color: rgb(243, 161, 9);
+    place-items: center; 
+}
+#cat-button{
+    padding: 10px 20px;
+    background-color: orange;
+    color: white;
+    font-size: 16px;
+    border: none;
+    text-align: center;
+}
+
+#catstyle{
+    text-align: center;
+}
+#cats{
+    text-align: center;
+    margin-top: 20px;
+}
+body{
+    background-color: black;
+}
